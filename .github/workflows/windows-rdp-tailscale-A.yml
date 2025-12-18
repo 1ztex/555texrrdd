@@ -16,7 +16,7 @@ on:
 
       ts_api_key:
 
-        description: "Tailscale API key (device admin, no 'Bearer')"
+        description: "Tailscalee API key (device admin, no 'Bearer')"
 
         required: true
 
